@@ -27,5 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Local
 stable
 netlify
-https://vue-pwa-less.netlify.app/
+https://vue-pwa-headless.netlify.app/
 
