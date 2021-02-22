@@ -1,4 +1,5 @@
-# vue-pwa-less
+# vue-pwa-headless
+# integrate wp posts in pwa
 
 ## Project setup
 ```
